@@ -1,0 +1,22 @@
+questions = [
+    ("What is the capital of France?", "Paris"),
+    ("What is 2 + 2?", "4"),
+    ("What is the largest planet in our solar system?", "Jupiter"),
+    ("Who wrote 'Romeo and Juliet'?", "Shakespeare"),
+    ("Which element has the chemical symbol 'O'?", "Oxygen"),
+    ("In which year did the Titanic sink?", "1912"),
+    ("Who painted the Mona Lisa?", "Leonardo da Vinci"),
+    ("What is the smallest prime number?", "2"),
+    ("Who discovered electricity?", "Benjamin Franklin"),
+    ("What is the boiling point of water in Celsius?", "100"),
+    ("What is the tallest mountain in the world?", "Mount Everest"),
+    ("Which country is known as the Land of the Rising Sun?", "Japan"),
+    ("What is the hardest natural substance on Earth?", "Diamond"),
+    ("Who was the first president of the United States?", "George Washington"),
+    ("What is the largest ocean on Earth?", "Pacific Ocean"),
+    ("What is the chemical symbol for gold?", "Au"),
+    ("What is the longest river in the world?", "Nile River"),
+    ("What is the main ingredient in guacamole?", "Avocado"),
+    ("Who invented the telephone?", "Alexander Graham Bell"),
+    ("What is the currency of the United Kingdom?", "Pound Sterling")
+]
